@@ -1,0 +1,3 @@
+discard
+set radio-dn ignition-config retry-count 2
+commit
