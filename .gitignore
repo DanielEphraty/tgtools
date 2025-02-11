@@ -2,7 +2,9 @@
 
 /.git/
 /.idea/
+/_consolidate/
 /_notes/
+/_references/
 /bin/
 /build/
 /dist/
@@ -15,6 +17,7 @@
 /docs/Makefile
 
 /src/mh_tgtools.egg-info
+/src/tgtools/analyse/
 
 /output
 /ssh_logs

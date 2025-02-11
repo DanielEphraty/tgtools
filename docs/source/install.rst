@@ -9,7 +9,7 @@ This option does not require a Python environment set up.
 #. Download one of the following zip files based on your OS:
 
    - Windows 64bit:
-     `download link <https://github.com/DanielEphraty/tgtools/releases/latest/download/tgtools-x64-0.1.3.zip>`_
+     `download link <https://github.com/DanielEphraty/tgtools/releases/download/v0.3.0/tgtools-x64-0.3.0.zip>`_
 
 #. Extract the zip file to your local drive
 

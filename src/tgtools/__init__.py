@@ -1,7 +1,7 @@
 
 __author__ = 'Daniel Ephraty'
 
-__version__ = '0.3.0'
+__version__ = '0.3.2'
 
 from tgtools.utils.cmdlog import Cmd
 from tgtools.utils.errlog import Err
