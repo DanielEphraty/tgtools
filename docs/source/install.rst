@@ -24,5 +24,3 @@ As a Python script
    You might like to copy the files: *config.toml* and *network.txt*
    from the *Lib/site-packages/mh-tgtools* directory (in your Python environment) to
    your working directory - as templates, then edit them as required.
-
-

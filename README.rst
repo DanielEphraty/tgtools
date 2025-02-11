@@ -1,6 +1,3 @@
-Tools for Siklu by Ceragon TG Radios
-=======================================
-
 **TgTools** is a collection of tools to help manage large networks with multiple
 Siklu by Ceragon MultiHaul TG radios. 
 
